@@ -1,0 +1,26 @@
+{
+  "fileId": 41966,
+  "folderId": 41967,
+  "content": "",
+  "commitInfo": "init",
+  "debugger": "pc-spa",
+  "componentType": "PC",
+  "comAry": {
+    "test": [
+      {
+        "title": "常规",
+        "comAry": [
+          "./src/button/com.json"
+        ]
+      }
+    ],
+    "publish": [
+      {
+        "title": "常规",
+        "comAry": [
+          "./src/button/com.json"
+        ]
+      }
+    ]
+  }
+}

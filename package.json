@@ -1,0 +1,45 @@
+{
+  "name": "pc-comlib-demo",
+  "version": "1.0.0",
+  "description": "PC组件库demo",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "mybricks dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z35635/pc-comlib-demo.git"
+  },
+  "keywords": [
+    "mybricks"
+  ],
+  "author": "zhulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z35635/pc-comlib-demo/issues"
+  },
+  "homepage": "https://github.com/z35635/pc-comlib-demo#readme",
+  "dependencies": {
+    "@fangzhou/com-utils": "1.1.10",
+    "@m-ui/icons": "2.5.0",
+    "@mybricks/rxui": "^1.0.18",
+    "antd": "4.16.13",
+    "m-ui": "1.11.1",
+    "moment": "^2.29.1",
+    "veaury": "^1.0.1",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.17.1",
+    "@types/react": "^17.0.8",
+    "@types/react-dom": "^17.0.5",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.4.1",
+    "prettier": "^2.6.2"
+  }
+}
