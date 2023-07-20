@@ -5,5 +5,5 @@ pc组件库示例工程
 > npm i
 
 ## 本地调试
-> 调试工具: VScode插件——Mybricks
+> 调试工具: VScode插件——Mybricks 
 > 配置文件: mybricks.json
